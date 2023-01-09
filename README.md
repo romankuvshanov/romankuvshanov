@@ -2,6 +2,7 @@
 
 - I am a frontend developer from Tyumen. 
 - I usually write in JS/React/Python
+- Have a look at my projects as a portfolio bellow in a pinned section
 - You can contact me via e-mail (romankuvshanov.work@gmail.com) or telegram ([@romankuvshanov_work](https://t.me/romankuvshanov_work))
 
 ## My current stack
