@@ -28,7 +28,7 @@
 
 ## My stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romankuvshanov&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+<img width="260" alt="image" src="https://user-images.githubusercontent.com/83648973/211587054-62c8b8c1-08c8-41b4-bbc5-9d1084fcadf2.png">
 
 ## Additional info
 - Some algorithmic tasks I've solved in C++ are [here](https://acmp.ru/index.asp?main=user&id=230329)
