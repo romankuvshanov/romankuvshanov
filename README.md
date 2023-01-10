@@ -1,8 +1,9 @@
 # Hi there 👋. I'm Roman Kuvshanov
 
-- I am currently looking for a job as a frontend developer. *My CV* is available in [English](https://raw.githubusercontent.com/romankuvshanov/romankuvshanov/main/English%20Kuvshanov%20Roman%20Frontend%20CV.pdf) and [Russian](https://raw.githubusercontent.com/romankuvshanov/romankuvshanov/main/Russian%20Kuvshanov%20Roman%20Frontend%20CV.pdf)
+- I am currently looking for a job as a **frontend developer**. **My CV** is available in [English](https://raw.githubusercontent.com/romankuvshanov/romankuvshanov/main/English%20Kuvshanov%20Roman%20Frontend%20CV.pdf) and [Russian](https://raw.githubusercontent.com/romankuvshanov/romankuvshanov/main/Russian%20Kuvshanov%20Roman%20Frontend%20CV.pdf)
 - I usually write in JS/React/Python
 - Have a look at my projects as a portfolio bellow in a pinned section
+- I also have a HTML/CSS portfolio [here](https://kuvshanov.me/articles/HTML_CSS_coder/files/portfolio/portfolio.html)
 - You can contact me via e-mail (romankuvshanov.work@gmail.com) or telegram ([@romankuvshanov_work](https://t.me/romankuvshanov_work))
 
 ## My current stack
@@ -28,6 +29,10 @@
 ## My stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romankuvshanov&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+## Additional info
+- Some algorithmic tasks I've solved in C++ are [here](https://acmp.ru/index.asp?main=user&id=230329)
+- Some js taks I've done from learn.javascript.ru are [here](https://plnkr.co/users/romankuvshanov/plunks)
 
 ## Contact
 - E-mail: romankuvshanov.work@gmail.com
