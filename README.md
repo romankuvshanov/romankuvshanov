@@ -1,6 +1,5 @@
 # Hi there 👋. I'm Roman Kuvshanov
 
-- I am currently looking for a job as a **frontend developer**. **My CV** is available in [English](https://raw.githubusercontent.com/romankuvshanov/romankuvshanov/main/English%20Kuvshanov%20Roman%20Frontend%20CV.pdf) and [Russian](https://raw.githubusercontent.com/romankuvshanov/romankuvshanov/main/Russian%20Kuvshanov%20Roman%20Frontend%20CV.pdf)
 - I usually write in JS/React/Python
 - Have a look at my projects as a portfolio bellow in a pinned section
 - I also have an HTML/CSS portfolio [here](https://kuvshanov.me/articles/HTML_CSS_coder/files/portfolio/portfolio.html)
